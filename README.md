@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Andrew (he/him). I also go by sparky!
+### 👋 Hi there! I'm Andrew (he/him). I also go by sparky! Read more about me at [zpar.ky](https://zpar.ky)
 
 ⚡ I'm interested in all areas of silicon design  
 ⚡ I'm currently working on making a PCB business card  
